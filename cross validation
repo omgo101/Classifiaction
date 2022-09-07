@@ -1,0 +1,9 @@
+There are different type of splitting techniques in cross validation for training dataset and test dataset 
+1.	Leave p out cross-validation
+2.	Leave one out cross-validation.
+3.	Holdout cross-validation.
+4.	Repeated random subsampling validation.
+5.	k-fold cross-validation.
+6.	Stratified k-fold cross-validation.
+7.	Time Series cross-validation.
+8.	Nested cross-validation.
